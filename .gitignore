@@ -1,0 +1,12 @@
+# Document source de la roadmap (roadmap.sh), non redistribué
+devops.pdf
+
+# Fichiers générés
+dist/
+tools/links-report.json
+
+# Configuration locale
+.claude/
+node_modules/
+.DS_Store
+Thumbs.db
